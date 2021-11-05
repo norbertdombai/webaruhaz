@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+main
+{
+    max-width: 750px;
+    margin:auto;
+    height: 800px;
+    background-color: lightpink;
+    border-radius: 5px;
+}
+
+a.menu 
+{
+border: 1px solid gray;
+border-radius: 5px;
+}
+
+table ,th, td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+div {
+    border: 1px solid gray;
+    background-color: whitesmoke;
+    height: 250px;
+    width: 150px;
+    border-radius: 5px;
+    float: left;
+    margin: 10px;
+}
+
+nev{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h3 {
+
+font-size: 20px;
+
+}
